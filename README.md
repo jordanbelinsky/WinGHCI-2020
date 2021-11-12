@@ -30,6 +30,6 @@ refreshenv
 3. Haskell Platform is now successfully installed!
 
 ### Install WinGHCI
-Lastly, is the simplest step. Download the WinGHCI.exe from this repo, and place it wherever you prefer to access it from on your PC. You can now double click to run it, and you are good to go!
+Lastly, is the simplest step. Download the WinGHCI folder from this repo, and place it wherever you prefer to access it from on your PC. You can now double click on **WinGHCI.exe** to run it, and you are good to go!
 
 Best of luck with Haskell functional programming!
