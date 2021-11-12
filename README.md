@@ -1,4 +1,4 @@
-# WinGHCI-2020
+# WinGHCI-2021
 A recompiled version of the no-longer supported WinGHCI program for Haskell platform development.
 
 For my class CISC 360 - Programming Paradigms, for the first half of the semester we were required to do Haskell compiling, and were recommended WinGHCI as an option for Windows-based development environments.
